@@ -1,6 +1,4 @@
-Here's a detailed article explaining the **why** and **what** of the project documented in your "LangChain-Powered MedTech Assistant Notebook":
 
----
 
 # Building a Smart MedTech Assistant with LangChain: Purpose, Process & Potential
 
