@@ -99,4 +99,3 @@ This assistant isn’t just a prototype — it's a foundational tool that showca
 
 ---
 
-Let me know if you want this formatted into a blog post, exported as a PDF, or published on LinkedIn/Medium.
